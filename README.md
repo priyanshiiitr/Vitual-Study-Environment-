@@ -48,8 +48,8 @@ The **Virtual Study Environment** is a collaborative and AI-powered platform des
 
 ### Prerequisites
 - Python (version 3.x or higher)
-- Node.js (for frontend functionalities)
-- Database setup (e.g., MySQL, MongoDB)
+- Flutter Dart
+- Database setup (e.g., Firebase,Supabase)
 
 ### Steps to Set Up
 1. Clone the repository:
