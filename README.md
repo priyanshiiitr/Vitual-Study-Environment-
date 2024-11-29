@@ -56,7 +56,7 @@ The **Virtual Study Environment** is a collaborative and AI-powered platform des
    ```bash
    git clone https://github.com/priyanshiiitr/virtual-study-environment.git
 
-Author:
+Author:<br>
 Aman Kumar amankunduiiitr@gmail.com +91 9466460761<br>
 Manish Kumar cs23b1004@iiitr.ac.in  +91 8887435095<br>
 Rudra Pratap Singh ad23b1047@iiitr.ac.in +91 7309719048<br>
