@@ -1,7 +1,0 @@
-opencv-python-headless==4.5.5.64   # For image and video processing
-dlib==19.24.0                      # For face detection and tracking
-numpy==1.23.5                      # For numerical computations
-sounddevice==0.4.6                 # For audio warnings
-flask==2.3.2                       # Web framework for API
-flask-cors==3.0.10                 # CORS support for Flask
-keyboard==0.13.5                   # For key press detection
