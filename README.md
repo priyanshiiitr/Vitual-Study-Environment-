@@ -58,8 +58,8 @@ The **Virtual Study Environment** is a collaborative and AI-powered platform des
 
 Author:<br>
 Aman Kumar amankunduiiitr@gmail.com +91 9466460761<br>
-Manish Kumar cs23b1004@iiitr.ac.in  +91 8887435095<br>
 Rudra Pratap Singh ad23b1047@iiitr.ac.in +91 7309719048<br>
+Manish Kumar cs23b1004@iiitr.ac.in  +91 8887435095<br>
 Vansh Raj Singh cs23b1079@iiitr.ac.in    +91 7755021148<br>
 Harsh Tripathi  ad23b1021@iiitr.ac.in    +91 9044255028<br>
 Priyansh Agarwal ad23b1042@iiitr.ac.in   +91 9571025342<br>
